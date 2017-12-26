@@ -6,14 +6,20 @@
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (NoModify))
+    (NoModify)
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\discrete.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\transistor.olb"
+      (Type "Schematic Library")))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\lib1.olb")
-      (Select "Design Resources" ".\lib1.olb" "TM1616"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -23,12 +29,23 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1446 104 563")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "1525 189")
-        (Zoom "242"))
+        (Scroll "2478 747")
+        (Zoom "485"))
       (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
-      (Package "TM1650")))
-  (MPSSessionName "wwng"))
+      (Package "ADNS-9800"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1714 78 537")
+        (Scroll "-274 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\DESIGN1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "wwng")
+  (PartMRUSelector))
