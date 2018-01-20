@@ -1,0 +1,102 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\lib1.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\discrete.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\transistor.olb"
+      (Type "Schematic Library"))
+    (File ".\sim7000.dsn"
+      (Type "Schematic Design")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sim7000.dsn")
+      (Path "Design Resources" ".\sim7000.dsn" "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 563")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1635 340")
+        (Zoom "315"))
+      (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (Package "Potentiometers"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1466 156 615")
+        (Scroll "256 0")
+        (Zoom "136")
+        (Occurrence "/"))
+      (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\SIM7000.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "wwng")
+  (PartMRUSelector
+    (Cap
+      (FullPartName "Cap.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (XM20C64/PUMA
+      (FullPartName "XM20C64/PUMA.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\SRAM.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("NPN BEC"
+      (FullPartName "NPN BEC.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Res
+      (FullPartName "Res.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))
+    (SIM7000
+      (FullPartName "SIM7000.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))))

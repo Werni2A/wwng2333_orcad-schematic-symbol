@@ -1,0 +1,30 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\lib1.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\discrete.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\transistor.olb"
+      (Type "Schematic Library")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\lib1.olb")
+      (Select "Design Resources" ".\lib1.olb" "SE3608"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
+      (Tab 0)))
+  (MPSSessionName "wwng")
+  (PartMRUSelector))

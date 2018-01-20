@@ -1,0 +1,75 @@
+(ExpressProject "狗群主升压板"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\狗群主升压板.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (File "e:\pcb\设计资料\orcad-schematic-symbol\orcad\共享库\lib1.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\connector.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\discrete.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\transistor.olb"
+      (Type "Schematic Library")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Cap
+      (FullPartName "Cap.Normal")
+      (LibraryName
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
+      (DeviceIndex "0"))
+    (Res
+      (FullPartName "Res.Normal")
+      (LibraryName
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Diode
+      (FullPartName "Diode.Normal")
+      (LibraryName
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
+      (DeviceIndex "0"))
+    (DW06D
+      (FullPartName "DW06D.Normal")
+      (LibraryName
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
+      (DeviceIndex "0"))
+    (TC4054B
+      (FullPartName "TC4054B.Normal")
+      (LibraryName
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
+      (DeviceIndex "0"))
+    (SE3608
+      (FullPartName "SE3608.Normal")
+      (LibraryName
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "E:\pcb\设计资料\orcad-schematic-symbol\ORCAD\原理图\狗群主升压板\狗群主升压板.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0)))
+  (MPSSessionName "wwng"))

@@ -1,0 +1,17 @@
+(PCB 89S52
+ (description
+  (timeStamp "2018 01 15 14 07 14")
+  (program "CAPTURE.EXE" (Version "17.2-2016"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Monday, January 15, 2018")
+  (document "E:\\PCB\\设计资料\\ORCAD-SCHEMATIC-SYMBOL\\89S52.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
