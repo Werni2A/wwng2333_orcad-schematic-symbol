@@ -1,0 +1,100 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\89s52.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\discrete.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\connector.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\transistor.olb"
+      (Type "Schematic Library"))
+    (File ".\lib1.olb"
+      (Type "Schematic Library"))
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON6A
+      (FullPartName "CON6A.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONNECTOR DB9"
+      (FullPartName "CONNECTOR DB9.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Cap
+      (FullPartName "Cap.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))
+    (MAX232
+      (FullPartName "MAX232.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))
+    (2N3904
+      (FullPartName "2N3904.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON10A
+      (FullPartName "CON10A.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\89s52.dsn")
+      (Path "Design Resources" ".\89s52.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\lib1.olb")
+      (Select "Design Resources"
+         "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\lib1.olb" "MAX232"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1740 104 563")
+        (Scroll "-297 -2")
+        (Zoom "54")
+        (Occurrence "/"))
+      (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\89S52.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

@@ -1,0 +1,68 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\lib1.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\discrete.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\transistor.olb"
+      (Type "Schematic Library"))
+    (File
+       "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\connector.olb"
+      (Type "Schematic Library")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"
+         "e:\allegro\cadence\cadence_spb_17.2-2016\tools\capture\library\discrete.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
+      (Tab 0)))
+  (MPSSessionName "wwng")
+  (PartMRUSelector
+    (RESAR_IS_4/SM
+      (FullPartName "RESAR_IS_4/SM.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Res
+      (FullPartName "Res.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))
+    (XTAL_HC49
+      (FullPartName "XTAL_HC49.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName
+         "E:\ALLEGRO\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Cap
+      (FullPartName "Cap.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0"))
+    (AT89S52
+      (FullPartName "AT89S52.Normal")
+      (LibraryName "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
+      (DeviceIndex "0")))
+  (ISPCBBASICLICENSE "false"))

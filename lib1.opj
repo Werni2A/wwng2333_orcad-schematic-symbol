@@ -19,23 +19,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\lib1.olb")
-      (Select "Design Resources" ".\lib1.olb"))
+      (Select "Design Resources" ".\lib1.olb" "SE3608"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 150"))
-      (Tab 0))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 511")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "3007 620")
-        (Zoom "485"))
-      (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\LIB1.OLB")
-      (Package "USBLC6")))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
+      (Tab 0)))
   (MPSSessionName "wwng")
   (PartMRUSelector))
