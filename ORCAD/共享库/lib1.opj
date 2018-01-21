@@ -29,13 +29,24 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 511")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
         (Scroll "3455 649")
         (Zoom "485"))
       (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
-      (Package "SC8205A")))
+      (Package "SC8205A"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1740 104 563")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1070 162")
+        (Zoom "242"))
+      (Path "E:\PCB\设计资料\ORCAD-SCHEMATIC-SYMBOL\ORCAD\共享库\LIB1.OLB")
+      (Package "S-8261ABJMD-G3JT2G")))
   (MPSSessionName "wwng")
   (PartMRUSelector))
